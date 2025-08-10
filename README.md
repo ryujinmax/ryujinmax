@@ -14,7 +14,7 @@
 
 ### 💻 Tech Stack:
 <a href="https://github.com/ryujinmax/ryujinmax">
-    <img src="https://skillicons.dev/icons?i=ts,js,sass,react,vue,flutter,vite" />
+    <img src="https://skillicons.dev/icons?i=ts,js,sass,react,vue,flutter,vite,go" />
   </a>
     <br>
   <a href="https://github.com/ryujinmax/ryujinmax">
