@@ -33,7 +33,7 @@
   </a>
   <br>
   <a href="https://github.com/ryujinmax/ryujinmax">
-    <img src="https://skillicons.dev/icons?i=figma,git,docker,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=figma,git,gitlab,postman,jenkins,docker,aws" />
   </a>
 
 ---
