@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🚀 I’m passionate about exploring and advancing web technologies that make a meaningful impact.
-- 🌱 I’m currently learning Web3, DevOps, and Cybersecurity.
+- 🌱 I’m currently learning Web3 and DevOps.
 - 🎮 FPS Player.
 - 😎 Inspirational Words: 
 > "The only way to do great work is to love what you do"
